@@ -1,12 +1,8 @@
 # TestInteractiveMap
-This is a test
-Cosas para agregar:
+Próximos pasos:
 
-- Player map: Cellphone friendly
-- Previsualizacion de imagenes.
-- Seleccion de Campaña (diferentes Json) (Tanto para player como GM)
-- Agregar links de referencias
-- Opcion Offline
+- Arreglar todos los bugs que generé pasandome de rosca
+- Mejorar interfaz de celular
 
 
 ------------
